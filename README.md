@@ -9,15 +9,15 @@
 - Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/masum035/Facebook-Meta-AI-TTS-Integration-in-dotnet-framework
 ```
 
 - Go to the project directory
 
 ```bash
-  cd my-project
+  cd Meta-AI-TTS-Integration\Python-TTS-Integration
 ```
-- Create a virual environment
+- Create a virtual environment
 ```bash
 pip install virtualenv
 python -m venv venv
